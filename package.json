@@ -1,0 +1,22 @@
+{
+  "name": "jquery-selector-associated",
+  "version": "1.0.0",
+  "description": "Associated Selector",
+  "main": "selector-associated.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkerchiu/jQuery-selector-associated.git"
+  },
+  "author": {
+    "name": "Walker Chiu",
+    "email": "chenjen.chiou@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walkerchiu/jQuery-selector-associated/issues"
+  },
+  "homepage": "https://github.com/walkerchiu/jQuery-selector-associated#readme"
+}
